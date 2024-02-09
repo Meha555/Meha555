@@ -1,14 +1,14 @@
 ### Hi, Welcome to my github 👋
 
 - 🔭 I’m currently studying school
-- 🌱 I’m currently learning C++ and Linux
+- 🌱 I’m currently learning C++ and Rust
 - 🤔 I’m looking for help with academic and vocational guidance
 - 👯 I’m willing to make friends:)
 - 📫 How to reach me: post issue in this repos or comment in my blog
   - My gitee(github access is unstable, so I usually use gitee): [Meha555 (meha555) - Gitee.com](https://gitee.com/meha555)
   - My blogs:
     - CSDN(rarely used): [3的4次方 - CSDN博客](https://blog.csdn.net/m0_58699417)
-    - CNBLOG(show my best work): [3的4次方 - 博客园 (cnblogs.com)](https://www.cnblogs.com/3to4/)
+    - CNBLOG(work in progress): [3的4次方 - 博客园 (cnblogs.com)](https://www.cnblogs.com/3to4/)
 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">

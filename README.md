@@ -1,7 +1,7 @@
 ### Hi, Welcome to my github 👋
 
-- 🔭 I’m currently studying school
-- 🌱 I’m currently learning C++ and Rust
+- 🔭 I’m currently in internship
+- 🌱 I’m currently learning C++, Python and Rust
 - 🤔 I’m looking for help with academic and vocational guidance
 - 👯 I’m willing to make friends:)
 - 📫 How to reach me: post issue in this repos or comment in my blog

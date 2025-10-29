@@ -1,7 +1,7 @@
 ### Hi, Welcome to my github 👋
 
 - 🔭 I’m working on software engineering
-- 👨‍💻 I use C++, Python and Go, under Linux & Windows
+- 👨‍💻 I use C++, Go, Python and TypeScript, on Linux & Windows
 - 😍 I’m major in middleware(network and graphics rendering), and also very interested in distributed storage.
 - 👯 I’m happy making new friends:)
 - 📫 How to reach me: post issue in this repos or comment in my blog

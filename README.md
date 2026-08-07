@@ -12,6 +12,8 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Meha555&theme=gruvbox" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Meha555&theme=gruvbox" />
 </div>
+<!--
 <div style="display: flex; justify-content: center;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Meha555&theme=gruvbox" />
 </div>
+-->
